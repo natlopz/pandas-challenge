@@ -1,6 +1,8 @@
 # pandas-challenge
 Module 4 Challenge
 
+Please see the file "PyCity Schools Analysis.ipynb" for assignment grading.
+
 Resources:
 PyCitySchools_starter.ipynb
 
